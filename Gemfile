@@ -83,3 +83,5 @@ gem 'sprockets'      , '4.0.0.beta2'
 gem 'sprockets-rails'
 
 gem 'babel-transpiler'
+
+gem 'yard'
